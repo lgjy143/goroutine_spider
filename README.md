@@ -1,2 +1,3 @@
 # goroutine_spider
 利用goroutine并发爬取zhenai网数据，练习goroutine和channel的一个不错项目
+scheduler下有两种并发调度策略，队列和简单形式
